@@ -21,9 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution - Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-yWzwm9K7lh)
+- Live Site URL: [Live Site](https://stefanysato.github.io/faq-accordion/)
